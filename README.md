@@ -84,6 +84,10 @@ and click on the connect icon
 4. Name the task as pick and place and build the task.
 
 ### Program (Task List):
+```
+Sowmiya N
+212221230106
+```
 ![op](./p1.jpeg)
 ![op](./p2.jpeg)
 ![op](./p3.jpeg)
