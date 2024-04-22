@@ -1,9 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -79,37 +79,27 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the task builder and create a new task.
 
+4. Name the task as pick and place and build the task.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
-
+### Program (Task List):
+![op](./p1.jpeg)
+![op](./p2.jpeg)
+![op](./p3.jpeg)
+![o](./p4.jpeg)
+### Output :
+#### Pick :
+![op](./pick0.jpeg)
+![op](./pick1.jpeg)
+![op](./pick2.jpeg)
+#### Place :
+![op](./place1.jpeg)
+![op](./place2.jpeg)
 
 ### Results: 
 
-
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
